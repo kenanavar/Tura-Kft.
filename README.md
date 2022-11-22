@@ -1,3 +1,14 @@
-HAKKIMDA<br>
-<br>
-Merhaba, ben Özge Üçer. Süleyman Demirel Üniversitesi İletişim Fakültesi Halkla İlişkiler ve Tanıtım bölümü 4. Sınıf öğrencisiyim. Bu sayfayı açmamdaki amaç kuşlar hakkındaki bilgileri sizlerle paylaşmaktır.
+<html>
+<body>
+
+<h1>TURA Kft. 
+  <br>
+    <br>
+  1239 Budapest, <br> 
+  Grassalkovich út 255. K10. ép. I. em.
+  <br>
+    <br>
+  Adószám: 14050187-2-43
+ </h1>
+</body>
+</html>
